@@ -1,0 +1,16 @@
+{
+  "name": "Solar-Blendung",
+  "short_name": "Blendung",
+  "description": "Reflexionen von Solaranlagen und Fassaden übers ganze Jahr berechnen, für jeden Ort der Schweiz.",
+  "lang": "de-CH",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14181d",
+  "theme_color": "#14181d",
+  "icons": [
+    { "src": "icons/symbol-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/symbol-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/symbol.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

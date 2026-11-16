@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="k"><rect width="512" height="512" rx="112"/></clipPath>
+  <radialGradient id="schein"><stop offset="0" stop-color="#fff3c4" stop-opacity=".95"/><stop offset="1" stop-color="#ffc23d" stop-opacity="0"/></radialGradient>
+  <radialGradient id="bg" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#1d2430"/><stop offset="1" stop-color="#07090c"/></radialGradient></defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g clip-path="url(#k)">
+  <polygon points="-39.0,426.3 572.6,479.2 371.0,272.3 155.7,265.7" fill="#1a56ff" fill-opacity="1"/>
+<polygon points="296.1,371.0 290.2,323.1 -191.0,-460.4 -195.0,-465.8" fill="#a07000" fill-opacity="0.9"/>
+<polygon points="201.2,365.2 296.1,371.0 -195.0,-465.8 -197.3,-465.3" fill="#eda600" fill-opacity="0.9"/>
+<polygon points="217.6,319.7 201.2,365.2 508.7,323.0 742.5,12.5" fill="#da1e0d" fill-opacity="0.88"/>
+<polygon points="201.2,365.2 296.1,371.0 941.5,351.7 508.7,323.0" fill="#761007" fill-opacity="0.88"/>
+  </g>
+</svg>
